@@ -1,6 +1,6 @@
 # Personal Finance App
 
-[![CI](https://github.com/Arquid/personal-finance-app/actions/workflows/ci.yml/badge.svg)](https://github.com/Arquid/personal-finance-app/actions/workflows/ci.yml)
+[![CI](https://github.com/Aayushdev18/finance_app/actions/workflows/ci.yml/badge.svg)](https://github.com/Aayushdev18/finance_app/actions/workflows/ci.yml)
 
 A full-stack personal finance manager with transaction tracking, budget management, savings pots, recurring bill tracking, and spending analytics. Built to demonstrate handling sensitive financial data with proper validation, relational data modeling, and SQL-based reporting (`GROUP BY` aggregations and window functions).
 
@@ -95,8 +95,8 @@ personal-finance-app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Arquid/personal-finance-app.git
-cd personal-finance-app
+git clone https://github.com/Aayushdev18/finance_app.git
+cd finance_app
 ```
 
 ### 2. Database
